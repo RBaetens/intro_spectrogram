@@ -64,4 +64,5 @@ Tools to compute and visualize spectrograms in python, as well as an introductor
 ## References
 
 Data, vibrations: https://endaq.com/pages/free-vibration-analysis-files
+
 Further references are listed in the notebook.
